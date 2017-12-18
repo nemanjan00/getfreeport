@@ -1,0 +1,10 @@
+{
+  "name": "getfreeport",
+  "version": "0.0.0",
+  "description": "Library for getting unused port",
+  "main": "index.js",
+  "repository": "git@github.com:nemanjan00/getfreeport.git",
+  "author": "Nemanja Nedeljković <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
